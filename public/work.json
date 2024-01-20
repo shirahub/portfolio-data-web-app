@@ -1,0 +1,35 @@
+[
+  {
+    "title": "PT Buana Saham Hartini Hasan",
+    "position": "Development Team Leader",
+    "description": "Stock investment app with social media features",
+    "start": "June 2022",
+    "end": "December 2023",
+    "highlights": [
+      "Participate in end-to-end product development, starting from brainstorming solutions, composing product requirements,  designing scalable and backwards-compatible systems, developing and delivering them to production stage.",
+      "Led a team of 6. Drove both product and engineering strategies."
+    ]
+  },
+  {
+    "title": "PT Buana Saham Hartini Hasan",
+    "position": "Back End Engineer",
+    "description": "Stock investment app with social media features",
+    "start": "September 2020",
+    "end": "June 2022",
+    "highlights": [
+      "Built the MVP product, which is a social media platform with stock trading features.",
+      "Participated in the process of acquiring an operational stock trading permit."
+    ]
+  },
+  {
+    "title": "G2 Labs",
+    "position": "Junior Full Stack Web Developer",
+    "description": "Providing end to end digital transformation services in Indonesia",
+    "start": "September 2020",
+    "end": "September 2021",
+    "highlights": [
+      "Assigned to work at PT Bank Rakyat Indonesia for the first 6 months. Developed features for a delivery system with Golang clean code architecture, ensure smooth execution in development and staging environment, and create high coverage unit tests.",
+      "Developed Front End and Back End for G2Academy’s main website, CMS, and CRS, including maintaining & refactoring legacy codes and developing new features with a team of 4."
+    ]
+  }
+]

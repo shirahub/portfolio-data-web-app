@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Sanber Campus x ITB",
+    "description": "Full Stack Data Science",
+    "start": "October 2023",
+    "end": "Present"
+  },
+  {
+    "title": "Pacmann Academy",
+    "description": "Data Engineer Course",
+    "start": "June 2023",
+    "end": "Present"
+  },
+  {
+    "title": "HariSenin Bootcamp",
+    "description": "Product Management & UI/UX",
+    "start": "August 2022",
+    "end": "March 2023"
+  },
+  {
+    "title": "Binar Academy",
+    "description": "Full-Stack Web Development (MERN Stack)",
+    "start": "August 2021",
+    "end": "March 2022"
+  },
+  {
+    "title": "G2 Academy",
+    "description": "Full-Stack Web & Mobile Development (Java & React)",
+    "start": "June 2020",
+    "end": "Sept 2020"
+  },
+  {
+    "title": "Universitas Indonesia",
+    "description": "Sastra Cina, accumulative GPA: 3.60",
+    "start": "2012",
+    "end": "2018"
+  }
+]
