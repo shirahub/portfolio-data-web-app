@@ -11,8 +11,4 @@ st.set_page_config(
     }
 )
 
-with st.sidebar:
-    st.title("Resume")
-    st.title("Research")
-
 show_resume()
