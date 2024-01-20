@@ -5,19 +5,25 @@ import math
 def show_resume():
     st.title("Resume")
 
+
     # Biografi
     with st.container(border=True):
         st.header("")
         col1, col2 = st.columns([1, 3])
 
         with col1:
-            st.image("public/Shirleen.jpeg")
+            st.markdown("""<img src="https://github.com/shirahub/portfolio-data-web-app/blob/main/public/Shirleen.jpeg?raw=true" style="border-radius: 50%;width:100%"></img>""", unsafe_allow_html=True)
 
         with col2:
             st.header("Shirleen Adriana")
-            st.text("📍 Jakarta, Indonesia 🇮🇩")
+            st.write("📍 Jakarta, Indonesia 🇮🇩")
             st.text("✉️ shirleen.adriana@gmail.com")
-
+            st.write("I am a Mandarin teacher, became a web developer in 2020, and since then have been exploring any IT-related fields.  As a software developer, I witnessed the pivotal role that data plays in guiding decisions and fostering innovation. This insight fueled my enthusiasm to explore data science and engineering.")
+            st.markdown("""
+                        <a href="https://www.linkedin.com/in/shirleen-adriana-1bbb731b2/">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:30px">
+                        </a>
+                        """, unsafe_allow_html=True)
     # Work Experience
     with st.container(border=True):
         st.header("🏢 Professional Experience")
